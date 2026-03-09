@@ -11,3 +11,4 @@
 - Os fundamentos para eng. software consistem em diversas praticas que tem finalidades em consolidar uma boa aplicação, onde na materia trabalhamos des de como configurar o git e criar uma conta no github, ate a conceeitos avançados de boas praticas dentro da engenharia de software
 
 # Estatistica
+- É a matéria que mostra como usar números e dados para entender melhor o que está acontecendo em um projeto de software, ajudando a analisar resultados e tomar decisões mais seguras.
