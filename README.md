@@ -2,4 +2,4 @@
 
 # Explicação do trabalho
 
-O trabalho se trata em explicar as matérias do curso de eng. software, e repassar algumas dicas que aprendemosa ao longo do tempo.
+O trabalho consiste em explicar as matérias do curso de Engenharia de Software e repassar algumas dicas que aprendemos ao longo do tempo.
